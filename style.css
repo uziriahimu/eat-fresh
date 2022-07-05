@@ -1,0 +1,183 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.top {
+    display: flex;
+}
+
+.h1 {
+    font-size: 60px;
+    color: rgb(99, 98, 98);
+
+}
+
+.margin {
+    margin: 200px;
+}
+
+.span {
+    color: orangered;
+}
+
+.top-div {
+    margin-left: 50px;
+    width: 50%;
+
+}
+
+.top-p {
+    color: rgb(147, 146, 146);
+    font-size: 20px;
+    font-weight: 50px;
+    margin-bottom: 50px;
+    line-height: 25px;
+
+
+}
+
+.btn {
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(242, 171, 163), rgb(250, 77, 47));
+    color: white;
+    font-size: 20px;
+    padding: 20px 40px;
+    border-radius: 40px;
+}
+
+.img {
+    margin-top: 100px;
+
+}
+
+.bg {
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    margin: 0;
+    background-size: cover;
+    margin-top: 100px;
+}
+
+.about-me-p {
+    line-height: 30px;
+
+    font-size: 20px;
+    color: rgb(70, 70, 70);
+    margin-bottom: 100px;
+    padding-right: 50px;
+    margin-right: 100px;
+
+}
+
+.h2 {
+    margin-top: 150px;
+    font-size: 40px;
+    color: rgb(99, 98, 98);
+}
+
+.ab-img {
+    margin-top: 50px;
+    margin-left: 100px;
+    height: 500px;
+    padding-left: 60px;
+}
+
+.recipe {
+    text-align: center;
+
+
+}
+
+.recipe h1 {
+    margin-top: 100px;
+    font-size: 40px;
+    color: rgb(92, 92, 92);
+}
+
+.recipe p {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(88, 87, 87);
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 100px;
+
+
+
+}
+
+.recipe-item {
+    box-shadow: 5px 8px 40px #cdcbcb;
+    width: 40%;
+    padding: 30px;
+    margin-left: 50px;
+    border-radius: 20px;
+    margin-bottom: 100px
+}
+
+.recipe-item-img {
+    height: 450px;
+}
+
+.recipe-item h1 {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.recipe-item p {
+    color: rgb(88, 87, 87);
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.last {
+    box-shadow: 5px 8px 40px #cdcbcb;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 20px;
+
+
+}
+
+.last div {
+    width: 30%;
+    margin-left: 100px;
+    padding: 20px 40px;
+}
+
+.last h1 {
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+.last p {
+    font-size: 20px;
+    color: rgb(88, 87, 87);
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    margin-top: 100px;
+    width: 100%;
+    padding: 40px;
+
+}
+
+.org {
+    color: orange;
+}
+
+.footer h3 {
+
+    color: gray;
+    font-size: 30px;
+}
+
+.footer p {
+    color: rgb(83, 122, 123);
+    font-size: 20px;
+    margin-bottom: 100px;
+}
